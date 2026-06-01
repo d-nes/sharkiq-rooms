@@ -1,0 +1,7 @@
+clean_room:
+  name: Clean room
+  description: Command the SharkIQ vacuum to clean a named room.
+  fields:
+    room_name:
+      description: Name of the room to send to the vacuum.
+      example: Office
